@@ -18,3 +18,7 @@ ng new APM
 ```node
 cd APM
 ```
+- Install all required packages
+```node
+npm install
+```
