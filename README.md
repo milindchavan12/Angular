@@ -1,5 +1,5 @@
 # Angular
-Angukar is Javascript framework for building client-side applications.
+Angular is Javascript framework for building client-side applications.
 
 ## Angular Components
 
