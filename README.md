@@ -27,6 +27,9 @@ ng serve
 
 ![img text](https://github.com/milindchavan12/Angular/blob/master/Assets/AngularCompoent.png)
 
+### Decorator 
+Decorator is a function that adds Metadata to the class, it members, or its method arguments. And Prefix with @ sign
+
 ## Angular Modules
 Angular modules are code files that organise and modularize the application into cohesive blocks of functionality. 
 ![img text](https://github.com/milindchavan12/Angular/blob/master/Assets/Modules.png)
