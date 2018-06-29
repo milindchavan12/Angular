@@ -28,5 +28,5 @@ ng serve
 ```
 
 ## Angular Modules
-
+Angular modules are code files that organise and modularize the application into cohesive blocks of functionality. 
 ![img text](https://github.com/milindchavan12/Angular/blob/master/Assets/Modules.png)
