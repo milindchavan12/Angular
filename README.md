@@ -10,3 +10,7 @@ Angukar is Javascript framework for building client-side applications.
 ```node
 npm install -g @angular/cli
 ```
+- Create New Agnaular App
+```node
+ng new APM
+```
