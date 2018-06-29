@@ -22,3 +22,7 @@ cd APM
 ```node
 npm install
 ```
+- Start running APP
+```node
+ng serve
+```
