@@ -14,3 +14,7 @@ npm install -g @angular/cli
 ```node
 ng new APM
 ```
+- navigate to APP folder
+```node
+cd APM
+```
