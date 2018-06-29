@@ -26,3 +26,7 @@ npm install
 ```node
 ng serve
 ```
+
+## Angular Modules
+
+![img text](https://github.com/milindchavan12/Angular/blob/master/Assets/Modules.png)
