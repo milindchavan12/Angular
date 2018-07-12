@@ -44,5 +44,7 @@ Double curly braces is very known interpolation
 <h1>{{pageTitle}}</h1>
 ```
 
+## Directive
+Directives are custom HTML element or attributes used to power up and extend the HTML.
 
 
