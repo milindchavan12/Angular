@@ -33,3 +33,6 @@ Decorator is a function that adds Metadata to the class, it members, or its meth
 ## Angular Modules
 Angular modules are code files that organise and modularize the application into cohesive blocks of functionality. 
 ![img text](https://github.com/milindchavan12/Angular/blob/master/Assets/Modules.png)
+
+## Binding
+Binding cordinates the communication between component's class and it's template and often involves passing the data.
