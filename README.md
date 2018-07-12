@@ -36,3 +36,13 @@ Angular modules are code files that organise and modularize the application into
 
 ## Binding
 Binding cordinates the communication between component's class and it's template and often involves passing the data.
+
+### Interpolation 
+Double curly braces is very known interpolation
+
+```node
+<h1>{{pageTitle}}</h1>
+```
+
+
+
