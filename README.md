@@ -46,6 +46,6 @@ Double curly braces is very known interpolation
 
 ## Directive
 Directives are custom HTML element or attributes used to power up and extend the HTML.
-- Structural Directives are *NgIf and *NgFor
+- Structural Directives are *ngIf and *ngFor
 
 
