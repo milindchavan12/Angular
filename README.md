@@ -49,7 +49,7 @@ Directives are custom HTML element or attributes used to power up and extend the
 - Structural Directives are *ngIf and *ngFor
 
 ## Two-Way Binding
-To specify two way binding in html element must be spcified with ngModel with round and square paranthesis.
+To specify two way binding in html element must be spcified with ngModel with round and square paranthesis and assigns to Component Class property.
 
 ```node
 <input [(ngModel)]='listFilter'>
