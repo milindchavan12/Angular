@@ -48,4 +48,11 @@ Double curly braces is very known interpolation
 Directives are custom HTML element or attributes used to power up and extend the HTML.
 - Structural Directives are *ngIf and *ngFor
 
+## Two-Way Binding
+To specify two way binding in html element must be spcified with ngModel with round and square paranthesis.
+
+```node
+<input [(ngModel)]='listFilter'>
+```
+
 
