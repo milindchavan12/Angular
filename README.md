@@ -54,5 +54,5 @@ To specify two way binding in DOM element must be spcified with ngModel with rou
 ```node
 <input [(ngModel)]='listFilter'>
 ```
-
+![img text](https://pbs.twimg.com/media/DiA1748X4AILZzC.jpg)
 
