@@ -33,3 +33,29 @@ Decorator is a function that adds Metadata to the class, it members, or its meth
 ## Angular Modules
 Angular modules are code files that organise and modularize the application into cohesive blocks of functionality. 
 ![img text](https://github.com/milindchavan12/Angular/blob/master/Assets/Modules.png)
+
+## Binding
+Binding cordinates the communication between component's class and it's template and often involves passing the data.
+
+### Interpolation 
+Double curly braces is very known interpolation
+
+```node
+<h1>{{pageTitle}}</h1>
+```
+
+## Directive
+Directives are custom HTML element or attributes used to power up and extend the HTML.
+- Structural Directives are *ngIf and *ngFor
+
+## Two-Way Binding
+To specify two way binding in DOM element must be spcified with ngModel with round and square paranthesis and assigns to Component Class property.
+
+```node
+<input [(ngModel)]='listFilter'>
+```
+![img text](https://pbs.twimg.com/media/DiA1748X4AILZzC.jpg)
+
+## Interface
+Interface is specification identifying a releated set of properties and Methods. A Class commits to supporting the specification by implementing the Interface. Interfaces are development time only, as they are not supported on ES5
+
