@@ -65,3 +65,4 @@ Service is the class with focused purpose with featues :
  - provides shared data or logic across components.
  - Encapsulate the external interactionns.
 
+Dependency Injection : A coding peetern in which a class receives the instance of an object it needs (called Dependencies) from an external source rather creating them itself.
