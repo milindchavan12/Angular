@@ -57,5 +57,11 @@ To specify two way binding in DOM element must be spcified with ngModel with rou
 ![img text](https://pbs.twimg.com/media/DiA1748X4AILZzC.jpg)
 
 ## Interface
-Interface is specification identifying a releated set of properties and Methods. A Class commits to supporting the specification by implementing the Interface. Interfaces are development time only, as they are not supported on ES5
+Interface is specification identifying a releated set of properties and Methods. A Class commits to supporting the specification by implementing the Interface. Interfaces are development time on#3ly, as they are not supported on ES5
+
+## Services and Dependency Injection
+Service is the class with focused purpose with featues :
+ - independent from any perticular component.
+ - provides shared data or logic across components.
+ - Encapsulate the external interactionns.
 
