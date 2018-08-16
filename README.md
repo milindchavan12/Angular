@@ -66,3 +66,9 @@ Service is the class with focused purpose with featues :
  - Encapsulate the external interactionns.
 
 Dependency Injection : A coding peetern in which a class receives the instance of an object it needs (called Dependencies) from an external source rather creating them itself.
+
+## Router
+To activate the route with the code, following steps are followed:
+- Use the Router Service and Import as well as Define it as Dependency.
+- Create a method that calls the navigate method of the router service instance and pass in the link paramter array.
+- Add User Interface elemment and use event binding to bind to created method.
