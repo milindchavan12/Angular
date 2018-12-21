@@ -1,5 +1,5 @@
 # Angular
-Angular is Javascript framework for building client-side, Progressive Web Applications and Mobile applications.
+Angular is Javascript framework for building client-side, Progressive Web Applications and Mobile applications. Angular uses Expressive HTML with Powerful Data Binding and Backend integration.
 
 ### Getting Started
 - Install Angular CLI : 
