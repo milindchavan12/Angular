@@ -1,6 +1,12 @@
 # Angular
 Angular is Javascript framework for building client-side, Progressive Web Applications and Mobile applications. Angular uses Expressive HTML with Powerful Data Binding and Backend integration.
 
+## Angular Components
+
+Angular Component comprises of Template and class associtiated with Template. Component als has Metadata with additional information about component.
+![img text](https://github.com/milindchavan12/Angular/blob/master/Assets/AngularCompoent.png)
+
+
 ### Getting Started
 - Install Angular CLI : 
 ```node
@@ -23,9 +29,7 @@ npm install
 ng serve
 ```
 
-## Angular Components
 
-![img text](https://github.com/milindchavan12/Angular/blob/master/Assets/AngularCompoent.png)
 
 ### Decorator 
 Decorator is a function that adds Metadata to the class, it members, or its method arguments. And Prefix with @ sign
