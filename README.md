@@ -60,10 +60,12 @@ To specify two way binding in DOM element must be spcified with ngModel with rou
 
 ### Trasforming data with Pipes
 Angular supports various built-in and custome pipes. Some of the built-i pipes are :
-- Date, number, decimal, percent currancy, json and slice etc.
+- Date, number, decimal, percent currency, json and slice etc.
 
 Examples :
 - To show item in lowercase : `{{ productName | lowercase }}`
+- To chain the pipes : `{{ price | currency | lowercase }}`
+- Pipe with paramters : `{{ price | currency:'USD':'Symbol':'1.2-2' }}`
 
 ## Interface
 Interface is specification identifying a releated set of properties and Methods. A Class commits to supporting the specification by implementing the Interface. Interfaces are development time only, as they are not supported on ES5
