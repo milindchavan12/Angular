@@ -87,6 +87,12 @@ Service is the class with focused purpose with featues :
 
 Dependency Injection : A coding peetern in which a class receives the instance of an object it needs (called Dependencies) from an external source rather creating them itself.
 
+Injecting the Service is done in constructor of Component class:
+
+`constructor(private serviceName : ServiceName) {
+ }
+`
+
 ## Router
 To activate the route with the code, following steps are followed:
 - Use the Router Service and Import as well as Define it as Dependency.
