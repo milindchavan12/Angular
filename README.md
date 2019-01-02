@@ -75,6 +75,10 @@ Any component can be defined as Nestable component, if they have selector define
 
 Example : `@Input() rating : number;`
 
+Similarly, if nested component needs to send information to Container component then it can raise an event with `@Output()` decorator
+
+Example : `@Output() ratingClicked : EventEmitter<string> = new EventEmitter<string>();`
+
 ## Services and Dependency Injection
 Service is the class with focused purpose with featues :
  - independent from any perticular component.
