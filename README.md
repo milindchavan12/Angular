@@ -113,3 +113,9 @@ Example :
    console.log(this.route.snapshot.paramMap.get('id'))
  }
 ```
+### Activating the Route with code
+```angular
+ on(private router : Router) {
+   this.route.navigate(['/path'])
+ }
+```
