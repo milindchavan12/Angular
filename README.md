@@ -103,3 +103,13 @@ To activate the route with the code, following steps are followed:
 - Use the Router Service and Import as well as Define it as Dependency.
 - Create a method that calls the navigate method of the router service instance and pass in the link paramter array.
 - Add User Interface elemment and use event binding to bind to created method.
+
+### Passing the parameters to Route
+Passing the parameters to the Route can be achieved through *ActivatedRoute* Service provided by the router. 
+Example :
+
+```angular
+ constructor(private route : ActivatedRoute) {
+   console.log(this.route.snapshot.paramMap.get('id'))
+ }
+```
