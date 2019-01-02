@@ -93,6 +93,11 @@ Injecting the Service is done in constructor of Component class:
  }
 `
 
+## Observable and Reactive Extension
+Observable helps to manage asynchronous data.
+
+![img text](https://github.com/milindchavan12/Angular/blob/master/Assets/promiseobserv.png)
+
 ## Router
 To activate the route with the code, following steps are followed:
 - Use the Router Service and Import as well as Define it as Dependency.
