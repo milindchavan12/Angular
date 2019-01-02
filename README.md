@@ -71,7 +71,9 @@ Examples :
 Interface is specification identifying a releated set of properties and Methods. A Class commits to supporting the specification by implementing the Interface. Interfaces are development time only, as they are not supported on ES5
 
 ## Nestable Component
-Any component can be defined as Nestable component, if they have selector defined in Component Decorator. Nested Component can receive the input from the Container Component by `Input()` decorator.
+Any component can be defined as Nestable component, if they have selector defined in Component Decorator. Nested Component can receive the input from the Container Component by `@Input()` decorator.
+
+Example : `@Input() rating : number;`
 
 ## Services and Dependency Injection
 Service is the class with focused purpose with featues :
