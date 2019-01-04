@@ -49,3 +49,9 @@ To lint app and format outout
 `
 ng lint my-app --format stylish
 `
+
+To lint app and fix all problem automatcially in the app
+
+`
+ng lint my-app --fix
+`
