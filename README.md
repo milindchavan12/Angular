@@ -7,7 +7,7 @@ Angular Component comprises of Template and class associtiated with Template. Co
 ![img text](https://github.com/milindchavan12/Angular/blob/master/Assets/AngularCompoent.png)
 
 
-### Getting Started
+### Getting Started : To lean more about Angular CLI : [Please check this link](https://github.com/milindchavan12/Angular/AngularCLI)
 - Install Angular CLI : 
 ```node
 npm install -g @angular/cli
