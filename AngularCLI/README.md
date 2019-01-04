@@ -15,6 +15,8 @@ ng -v
 `
 
 ### Let's create our first app
+There are different ways with different option we can create Angular App. Following are few most common examples: 
+
 To create an Angular app with CLI, without writing any files which won't install the node packages.
 
 `
