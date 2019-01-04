@@ -20,6 +20,7 @@ To create an Angular app with CLI, without writing any files which won't install
 `
 ng new my-app --dry-run
 `
+
 To create new app without installing node packages:
 
 `
