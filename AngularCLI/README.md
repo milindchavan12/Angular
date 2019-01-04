@@ -56,7 +56,7 @@ To lint app and fix all problem automatcially in the app
 ng lint my-app --fix
 `
 
-### Code with Blueprints
+## Generating the Code with Blueprints
 The *generate* command will generate the code from blueprint
 
 ### Syntax : 
