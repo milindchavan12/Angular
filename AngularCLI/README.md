@@ -16,6 +16,7 @@ ng -v
 
 ### Let's create our first app
 To create an Angular app with CLI, without installing the node packages
+
 `
 ng new ngtest --skip-install
 `
