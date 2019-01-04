@@ -40,3 +40,6 @@ To create a new app with "No Tests", and "SCSS" styling
 `
 ng new my-app --prefix myprefix --skip-tests --style scss
 `
+
+## Linting
+Angular CLI comes with in-built linting which means to check if our code is okay. 
