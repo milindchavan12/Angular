@@ -61,3 +61,8 @@ The *generate* command will generate the code from blueprint
 
 ### Syntax : 
 `ng generate <blueprint> <options>`
+
+### Generating the component:
+`ng generate component pet`
+
+and with alias : `ng g c pet`
