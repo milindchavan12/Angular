@@ -27,7 +27,7 @@ To create new app without installing node packages:
 ng new my-app --skip-install
 `
 
-The default prefix of an Angular App will be **app**,To create new app with a custome prefix:
+The default prefix of an Angular App will be **app**, to create app with custome prefix:
 
 `
 ng new my-app --prefix myprefix
