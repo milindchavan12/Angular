@@ -33,3 +33,8 @@ The default prefix of an Angular App will be **app**, to create app with custome
 ng new my-app --prefix myprefix
 `
 
+To create a new app with "No Tests", and "SCSS" styling 
+
+`
+ng new my-app --prefix myprefix --skip-tests --style scss
+`
