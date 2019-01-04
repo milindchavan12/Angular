@@ -15,8 +15,8 @@ ng -v
 `
 
 ### Let's create our first app
-To create an Angular app with CLI, without installing the node packages
+To create an Angular app with CLI, without writing any files which won't install the node packages.
 
 `
-ng new ngtest --skip-install
+ng new my-app --dry-run
 `
