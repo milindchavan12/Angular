@@ -68,4 +68,4 @@ The *generate* command will generate the code from blueprint
 and with alias : `ng g c pet`
 
 ## Let's compare the Dev and Production Build
-
+![img text](https://github.com/milindchavan12/Angular/blob/master/Assets/build.png)
