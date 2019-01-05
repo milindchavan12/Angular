@@ -66,3 +66,6 @@ The *generate* command will generate the code from blueprint
 `ng generate component pet`
 
 and with alias : `ng g c pet`
+
+## Let's compare the Dev and Production Build
+
