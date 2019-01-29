@@ -15,3 +15,6 @@ Following are the validation classes by which Angular performs the validation on
 
 ### Classes and associtated ngModel properties
 ![img text](https://github.com/milindchavan12/Angular/blob/master/Assets/ngProperties.png)
+
+### HTML 5 CSS validation:
+To check if we can use HTML5 CSS validation : https://caniuse.com/
