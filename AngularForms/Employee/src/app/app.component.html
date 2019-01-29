@@ -3,8 +3,9 @@
   <form #form="ngForm" novalidate>
     <div class="form-group">
       <label>First Name</label>
-      <input type="text" class="form-control" required name="firstName" ngModel>
+      <input #firstName type="text" class="form-control" required name="firstName" ngModel>
     </div>
+    {{firstName.className}}
     <div class="form-group">
       <label>Last Name</label>
       <input type="text" class="form-control" required name="lastName" ngModel>
