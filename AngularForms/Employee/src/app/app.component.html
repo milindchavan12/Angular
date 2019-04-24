@@ -1,9 +1,12 @@
 <div class="container">
   <h3>Angular 3 Forms</h3>
-  <form #form="ngForm" novalidate>
-    <div class="form-group">
-      <label>First Name</label>
+  <form #form="ngForm" (submit)="submitForm(form)" novalidate>
+    <div class="form-group" [class.has-error]="true">
+      <label class="control-label">First Name</label>
       <input #firstName type="text" class="form-control" required name="firstName" ngModel>
+      <div class="alert alert-danger">
+        Input field is required
+      </div>
     </div>
     {{firstName.className}}
     <div class="form-group">

@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { NgForm } from '@angular/forms';
 
 @Component({
   selector: 'app-root',
@@ -8,4 +9,8 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'Employee';
   languages = ['English', 'Dutch', 'German'];
+
+  submitForm(_form: NgForm) {
+    console.log(_form.value);
+  }
 }
