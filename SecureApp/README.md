@@ -11,3 +11,9 @@ OpenID Connect and OAuth2 are the most modern and standardized approaches for au
 
 ## Angular App Security Architecture
 ![img text](https://github.com/milindchavan12/Angular/blob/master/Assets/AngularAppSecurityArchitecture.png)
+
+### OAuth 2 Roles:
+- Resource Owner : An End User.
+- Resource Server : A Website/ API or Remotely Access Data Store.
+- Client : A Client App itself.
+- Authorization Server : STS/ Identity Provider (IDP)
