@@ -17,3 +17,13 @@ OpenID Connect and OAuth2 are the most modern and standardized approaches for au
 - Resource Server : A Website/ API or Remotely Access Data Store.
 - Client : A Client App itself.
 - Authorization Server : STS/ Identity Provider (IDP)
+
+### OAuth 2 Grant Types
+- Implicit
+- Authorization Code
+- Resource Owner Password Credential
+- Client Credential
+
+### OAuth 2 Token Types
+- Access Token : JWT 
+- Refresh Token
