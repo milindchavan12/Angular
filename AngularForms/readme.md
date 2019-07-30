@@ -18,3 +18,6 @@ Following are the validation classes by which Angular performs the validation on
 
 ### HTML 5 CSS validation:
 To check if we can use HTML5 CSS validation : https://caniuse.com/
+
+### Adding Default Angular Validation
+by adding `ngNativeValidate`, allow browser each control from ngForm. Angular turns this OFF by default, because of browsers.
