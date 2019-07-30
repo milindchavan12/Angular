@@ -4,7 +4,7 @@ There are 2 Angular Form Technologies:
 - Reactive Forms
 
 ## Form Validation 
-Following are the validation classes by which Angular performs the validation on fields:
+Following are the validation classes by which Angular performs the validation on fields: This can be reviewed any field by adding **#classTest** attribute
 
 - **ng-untouched**  : The form field not touched/modified.
 - **ng-touched**    : The field is tabed in or modified.
